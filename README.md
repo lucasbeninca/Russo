@@ -1,7 +1,7 @@
 # Russo
 Dedicado a fazer anotações sobre o idioma Russo
 
-Tabela com o alfabeto cirílico (russo) não foi validada por expecialistas.
+Tabela com o alfabeto cirílico (russo) não foi validada por especialistas.
 
 | **Cirílico** | **Nome**               | **Transliteração/Pronúncia (PT-BR)**    | **Exemplo em russo** | **Tradução**       |
 |---------------|------------------------|-----------------------------------------|-----------------------|--------------------|
